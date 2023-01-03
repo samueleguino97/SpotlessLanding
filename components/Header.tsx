@@ -7,7 +7,7 @@ function Header() {
   const router = useRouter();
   const currentRoute = router.pathname;
   return (
-    <header className="flex items-center justify-between w-full shadow-sm h-36">
+    <header className="flex items-center justify-between w-full px-4 shadow-sm h-36">
       <div className="container flex items-center justify-between w-full h-full mx-auto">
         <Image
           src={require("../assets/Logo.svg")}
