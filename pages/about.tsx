@@ -4,7 +4,7 @@ import Image from "next/image";
 import { montserratFont } from "../utils";
 import classNames from "classnames";
 
-export default function Home() {
+export default function About() {
   return (
     <>
       <Head>
