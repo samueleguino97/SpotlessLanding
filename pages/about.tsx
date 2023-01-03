@@ -34,6 +34,7 @@ export default function About() {
             className="flex items-center gap-4 px-6 py-4 tracking-widest text-white rounded-lg font-Montserrat bg-primary"
             href="https://wa.link/0xh0nj"
             target="_blank"
+            rel="noreferrer"
           >
             CONTACTANOS
             <svg
