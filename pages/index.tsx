@@ -24,7 +24,7 @@ export default function Home() {
           LIMPIEZA CON LA{" "}
           <span className="font-black text-primary">MEJOR ATENCION</span>
         </h1>
-        <h2 className="tracking-[0.025em] text-2xl font-semibold text-center max-w-5xl mt-6 mx-auto text-[#131313]">
+        <h2 className="tracking-[0.025em] text-2xl font-semibold text-cente font-Montserrat max-w-5xl mt-6 mx-auto text-[#131313]">
           Nos esforzamos por hacer que la limpieza sea accesible y lujosa para
           todos, porque creemos que todos merecen tener espacios limpios y
           relajantes en los que vivir y trabajar.
